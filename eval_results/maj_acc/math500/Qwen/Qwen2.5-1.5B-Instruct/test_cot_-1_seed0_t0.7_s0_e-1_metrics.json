@@ -1,0 +1,12 @@
+{
+    "num_samples": 500,
+    "empty_samples": 2,
+    "average_acc": 0.224,
+    "pass_acc": 0.294,
+    "maj_acc": 0.22,
+    "average_time_use_in_second": 832.32870221138,
+    "averate_time_use_in_minite": "13:52",
+    "total_tokens_generated": 315826,
+    "average_tokens_per_problem": 631.652,
+    "total_max_tokens_generated": 618
+}
