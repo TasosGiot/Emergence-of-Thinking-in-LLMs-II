@@ -2,7 +2,7 @@
 
 This repository contains the official codebase and implementation details for our project, **"On the Emergence of Thinking in LLMs II: Thinking Big on Small Budgets"**. 
 
-This work was conducted as part of the **Natural Language Processing** course at the National Technical University of Athens (NTUA). Our project focuses on the replication and subsequent expansion of the research presented in the original _"On the Emergence of Thinking in LLMs Ι: Searching for the Right Intuition"_ paper.
+This work was conducted as part of the **Speech and Natural Language Processing** course at the National Technical University of Athens (NTUA). Our project focuses on the replication and subsequent expansion of the research presented in the original _"On the Emergence of Thinking in LLMs Ι: Searching for the Right Intuition"_ paper.
 
 ---
 
@@ -21,8 +21,11 @@ The project is organized into two primary pillars:
 2.  **Expansions:** Our original contributions, where we test **dynamic hyperparameters** and implement **different exploration reward functions** to analyze their impact on reasoning emergence.
 
 ---
+## Supervisor
+- Ioannis Kalogiannidis
 
-## Participants (Alphabetical Order)
+## Participants
+In Alphabetical Order:
 - Giotitsas Anastasios
 - Iliadis Ilias Stylianos
 - Livanas Dimitrios
