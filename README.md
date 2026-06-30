@@ -23,10 +23,10 @@ The project is organized into two primary pillars:
 ---
 
 ## Participants (Alphabetical Order)
-- Γιωτίτσας Αναστάσιος
-- Ηλιάδης Ηλίας-Στυλιανός
-- Λιβανάς Δημήτριος
-- Μανιατογιάννης Σταύρος
+- Giotitsas Anastasios
+- Iliadis Ilias Stylianos
+- Livanas Dimitrios
+- Maniatogiannis Stavros
 
 ---
 
