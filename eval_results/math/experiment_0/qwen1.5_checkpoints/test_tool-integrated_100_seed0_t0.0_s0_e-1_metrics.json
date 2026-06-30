@@ -1,9 +1,0 @@
-{
-    "num_samples": 100,
-    "empty_samples": 5,
-    "average_acc": 0.22,
-    "pass_acc": 0.22,
-    "maj_acc": 0.22,
-    "average_time_use_in_second": 1020.6534252166748,
-    "averate_time_use_in_minite": "17:00"
-}
